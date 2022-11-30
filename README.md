@@ -1,5 +1,5 @@
 # dts-github-access
-This repository explains how to add users to gain access to the utahdts GitHub organization.
+This repository explains how to add users to gain access to the `utahdts` GitHub organization.
 This is taken from the [GitHub License Tracking spreadsheet](https://docs.google.com/spreadsheets/d/1IX1OA8Wwv4ISU7hmGWxjin94r76eyC8clWHUEz361iQ/edit?usp=sharing).
 This spreadsheet has restrictions so it may not be visible, but its "Process" tab has been copied here for exposure.
 

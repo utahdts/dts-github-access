@@ -1,10 +1,15 @@
 # dts-github-access
-This repository explains how to add users to gain access to the `utahdts` GitHub organization.
-This is taken from the [GitHub License Tracking spreadsheet](https://docs.google.com/spreadsheets/d/1IX1OA8Wwv4ISU7hmGWxjin94r76eyC8clWHUEz361iQ/edit?usp=sharing).
+This repository explains how to gain access to the `utahdts` GitHub organization.
+This information is taken from the [GitHub License Tracking spreadsheet](https://docs.google.com/spreadsheets/d/1IX1OA8Wwv4ISU7hmGWxjin94r76eyC8clWHUEz361iQ/edit?usp=sharing).
 This spreadsheet has restrictions so it may not be visible, but its "Process" tab has been copied here for exposure.
 
 ## TL;DR
-To request a new license, [fill out this form](https://forms.gle/jwtVia6mHLZWVrVh8) and email <dtssam@utah.gov> to expedite it.
+To request a new license:
+1. [Fill out this form](https://forms.gle/jwtVia6mHLZWVrVh8)
+	1. **"GitHub Organization needing assigned to"** is "DTS (support multiple agencies)"
+	1. **"Needs Visual Studio License Purchased w/GitHub?"** probably a "no", but if you do need one you can check "yes"
+	1. **"Type of request"** is "Assign new user/license" unless you know someone to remove and you are taking their license.
+3. After the form is submitted, email <dts_dtt@utah.gov> to then be given access to the `utahdts` organization
 
 ## New License		
 1. Agency requests license using the [request form](https://forms.gle/jwtVia6mHLZWVrVh8)
